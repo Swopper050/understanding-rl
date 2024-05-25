@@ -1,2 +1,4 @@
+gymnasium==0.29.1[classic-control]
 jupyter==1.0.0
+matplotlib==3.9.0
 torch==2.3.0
